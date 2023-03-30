@@ -1,0 +1,16 @@
+<svg width="2350" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/2009/xlink" overflow="hidden">
+<defs>
+<clipPath id="clip0">
+<rect x="0" y="0" width="2350" height="200"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip0)">
+<rect fill="#000000" x="0" y="0" width="200" height="200" stroke="#000000" stroke-width="2.5" stroke-linecap="square" stroke-miterlimit="8"/>
+<text fill="#FFFFFF" font-family="Righteous,Righteous_MSFontService,sans-serif" font-weight="400" font-size="180" transform="translate(25.7418 162)">M</text>
+<rect fill="#999999" x="200" y="0" width="200" height="200" stroke="#999999" stroke-width="2.5" stroke-linecap="square" stroke-miterlimit="8"/>
+<text fill="#000000" font-family="Righteous,Righteous_MSFontService,sans-serif" font-weight="400" font-size="180" transform="translate(239.867 162)">B</text>
+<rect fill="#FFFFFF" x="400" y="0" width="200" height="200" stroke="#999999" stroke-width="2.5" stroke-linecap="square" stroke-miterlimit="8"/>
+<text fill="#999999" font-family="Righteous,Righteous_MSFontService,sans-serif" font-weight="400" font-size="180" transform="translate(446.767 162)">T</text>
+<text fill="#000000" font-family="Righteous,Righteous_MSFontService,sans-serif" font-weight="400" font-size="180" transform="translate(700.428 162)">Marc Bernard Tools</text>
+</g>
+</svg>
