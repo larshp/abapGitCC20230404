@@ -1,3 +1,7 @@
+:root {
+  --r-background-color: #343535;
+}
+
 .reveal h1 {
   text-transform: none;
 }
