@@ -85,10 +85,31 @@
       </section>
 
       <section>
-        <h2>Enhancing serializer interface</h2>
-        @Marc
+        <h2>Serializer Interface - Issues</h2>
+<ul>
+  <li>Object name does not match TADIR or contains system data (SICF, BMFR, SOTS, <a href="https://github.com/abapGit/abapGit/issues/6172">#6172</a>)</li>
+  <li>Dependencies between objects of other or same type (SMIM, SICF, <a href="https://github.com/abapGit/abapGit/issues/2464">#2464</a> <a href="https://github.com/abapGit/abapGit/issues/3536">#3536</a>)</li>
+  <li>Issues with changed_by &amp; jump for objects with sub-objects (FUGR, CLAS, <a href="https://github.com/abapGit/abapGit/issues/1428">#1428</a> <a href="https://github.com/abapGit/abapGit/issues/6038">#6038</a>)</li>
+  <li>Decouple reading/writing files from system changes (<a href="https://github.com/abapGit/abapGit/issues/4934">#4934</a>)</li>
+</ul>
       </section>
 
+      <section>
+        <h2>Serializer Interface - Enhancement Proposal</h2>
+<ol>
+  <li>TADIR = ITEM</li>
+  <li>New Methods</li>
+    <ul>
+      <li>get_dependencies (it_all_items > rt_depends_on_items)</li>
+      <li>map_item_to_filename (is_item, iv_extra, iv_ext > rv_filename)</li>
+      <li>map_filename_to_item (iv_filename > rs_item)</li>
+    </ul>
+  <li>New Parameters</li>
+    <ul>
+      <li>changed_by, jump (iv_extra, iv_ext)</li>
+    </ul>
+</ol>
+      </section>
       <section>
         <h2>#ABAPisNotDead</h2>
         <h2><a href="https://abapgit.org/sponsor.html">Support Us</a></h2>
