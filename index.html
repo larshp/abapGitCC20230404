@@ -87,26 +87,26 @@
       <section>
         <h2>Serializer Interface - Issues</h2>
 <ul>
-  <li>Object name does not match TADIR or contains system data (SICF, BMFR, SOTS, <a href="https://github.com/abapGit/abapGit/issues/6172">#6172</a>)</li>
-  <li>Dependencies between objects of other or same type (SMIM, SICF, <a href="https://github.com/abapGit/abapGit/issues/2464">#2464</a> <a href="https://github.com/abapGit/abapGit/issues/3536">#3536</a>)</li>
-  <li>Issues with changed_by &amp; jump for objects with sub-objects (FUGR, CLAS, <a href="https://github.com/abapGit/abapGit/issues/1428">#1428</a> <a href="https://github.com/abapGit/abapGit/issues/6038">#6038</a>)</li>
-  <li>Decouple reading/writing files from system changes (<a href="https://github.com/abapGit/abapGit/issues/4934">#4934</a>)</li>
+  <li>Object name does not match TADIR or contains system data <span style="font-size: small;">(SICF, BMFR, SOTS, <a href="https://github.com/abapGit/abapGit/issues/6172">#6172</a>)</span></li>
+  <li>Dependencies between objects of other or same type <span style="font-size: small;">(SMIM, SICF, <a href="https://github.com/abapGit/abapGit/issues/2464">#2464</a> <a href="https://github.com/abapGit/abapGit/issues/3536">#3536</a>)</span></li>
+  <li>Issues with changed_by &amp; jump for objects with sub-objects <span style="font-size: small;">(FUGR, CLAS, <a href="https://github.com/abapGit/abapGit/issues/1428">#1428</a> <a href="https://github.com/abapGit/abapGit/issues/6038">#6038</a>)</span></li>
+  <li>Decouple reading/writing files from system changes <span style="font-size: small;">(<a href="https://github.com/abapGit/abapGit/issues/4934">#4934</a>)</span></li>
 </ul>
       </section>
 
       <section>
-        <h2>Serializer Interface - Enhancement Proposal</h2>
+        <h2>Serializer Interface - Proposal</h2>
 <ol>
   <li>TADIR = ITEM</li>
   <li>New Methods</li>
     <ul>
-      <li>get_dependencies (it_all_items > rt_depends_on_items)</li>
-      <li>map_item_to_filename (is_item, iv_extra, iv_ext > rv_filename)</li>
-      <li>map_filename_to_item (iv_filename > rs_item)</li>
+      <li>get_dependencies <span style="font-size: small;">(it_all_items > rt_depends_on_items)</span></li>
+      <li>map_item_to_filename <span style="font-size: small;">(is_item, iv_extra, iv_ext > rv_filename)</span></li>
+      <li>map_filename_to_item <span style="font-size: small;">(iv_filename > rs_item)</span></li>
     </ul>
   <li>New Parameters</li>
     <ul>
-      <li>changed_by, jump (iv_extra, iv_ext)</li>
+      <li>changed_by, jump <span style="font-size: small;">(iv_extra, iv_ext)</span></li>
     </ul>
 </ol>
       </section>
