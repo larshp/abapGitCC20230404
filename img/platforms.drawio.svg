@@ -1,15 +1,9 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="373" height="133" viewBox="-0.5 -0.5 373 133" content="&lt;mxfile&gt;&lt;diagram id=&quot;4ii5kQNn4RMPkGFJG-Lt&quot; name=&quot;Page-1&quot;&gt;7ZdRb5swEMc/DY+LAg6QPK5ptr1Mq5SHbY8uXMEqYGRMgX36mdiOASdtNa0hlcoDwn/bd77fncE4aJu3Xxku0+80hszxlnHroFvH88LQE/de6KSAwpUUEkZiKblG2JM/oMSlUmsSQzUayCnNOCnHYkSLAiI+0jBjtBkPe6DZ2GuJE7CEfYQzW/1JYp4q1Q02puMbkCTVrgNfBXiPo8eE0bpQDh0PPRwu2Z1jbUxFWqU4ps3AK9o5aMso5fIpb7eQ9Ww1Nznvy5ne48IZFPw1E1SinnBWq9h/FJ/uGORqebzTTA5BQT9t6aCbJiUc9iWO+t5GFIHQUp5nouWKR2UVGIf27MpMvKKOgObAWSeGqAneSiHqNGPVbkxG1kpKB7nQ07CqgeRo2WAQD4rEaSrIorLngPOyLh5n54LW83FZWVx2+T3Effje8noQ+d58iAIL0U3/PgI2O5XphlpfDkp4tVCmu+mCUNZXC2W6fy4IRZ8ABlQsHFDEn/uPvGhFGa4qEomwK44Zt+UBGBE86371EBe+bv4e9t22irBsdaol/UNsHRkmOMUZBbME+OA9YBMeIPRPINQagwxz8jT2eIqr8nBHiViL2ernvhHaREVrFoGaNTweTAyhyTvjuEBtSIZsGTqk+Rj26zLvvtvMz5XmlbtZBP7GXOE064vl8Ar+rQhecuM97+Y/loh9Wv0okedLxPdF7gKTG/dNKuQFL29VIKJp/pTkcPM7inZ/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
-    <defs>
-        <filter id="dropShadow">
-            <feGaussianBlur in="SourceAlpha" stdDeviation="1.7" result="blur"/>
-            <feOffset in="blur" dx="3" dy="3" result="offsetBlur"/>
-            <feFlood flood-color="#3D4574" flood-opacity="0.4" result="offsetColor"/>
-            <feComposite in="offsetColor" in2="offsetBlur" operator="in" result="offsetBlur"/>
-            <feBlend in="SourceGraphic" in2="offsetBlur"/>
-        </filter>
-    </defs>
-    <g filter="url(#dropShadow)">
-        <rect x="0" y="80" width="80" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="361px" height="121px" viewBox="-0.5 -0.5 361 121" content="&lt;mxfile&gt;&lt;diagram id=&quot;4ii5kQNn4RMPkGFJG-Lt&quot; name=&quot;Page-1&quot;&gt;7ZhLc5swEMc/Dcd6DAJiH2vHSS+dZsaHtkcFNqAakEcIA/30FWZlHnIe03Gc2lMuZv96rPa3ixC2yDKt7gXdxl95CInlTMPKIreW49i2M1U/jVK3iueSVogEC7FTJ6zZb0ARx0UFCyEfdJScJ5Jth2LAswwCOdCoELwcdnviydDrlkZgCOuAJqb6nYUy1nH5867hC7Ao1q59z21bHmmwiQQvMnRoOeRpf7XNKdWTYaR5TENe9iSysshScC7bu7RaQtLA1dzacXfPtB4WLiCTbxngtAN2NCkw9m/ZpwcBKS5P1prJPihohk0tsihjJmG9pUHTWqoqUFos00RZtrrNNyCDGI2gEDu4Y1KyLELpF4ui/cQq4IW5ZgxjB0JC1ZMwhnvgKUhRqy7Y6rjIs9YJQbvs0jdDKe4lTg+jWDDRYeaOmbpBbMcREgPhWgJNt0W2uSyIZPZxEF0D4ip9hLBh5UwvlKfnfBxP3+C5aLZFEJeFcPxcz85H8OY6CI4f6jMSnF0HwfFjfEaC+jzUQ2iwgyz83Bx5lBUkNM9Z0DCSVEhT7lFUPET9oyE+8bT5s992W2E6WqtG6zT01fIikIOtCsLBmcxMR4+3d4S31gQkVLLd8CR3LAno4YEztbhux3nuJainyHkhAsBR/ZPVaCIy2roOC9QTtQyMifY1cQj7bWViX2mZ/CM14drzie/Nu+tmXCKTaf/y/65iXnPjvOzmhPVkfhX8r6cT1pPnqUT7XSLtdymnV7y8VzUps/t8bbt3fxKQ1R8=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <rect x="0" y="80" width="80" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 3.19 77.08 L 78.33 81.43 L 83.53 117.48 L 1.88 117.52" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 0 80 C 18.91 75.49 28.26 75.77 80 80 M 0 80 C 18.3 80.81 36.06 82.16 80 80 M 80 80 C 79.18 93.82 78.61 103.62 80 120 M 80 80 C 80.29 96.39 77.64 112.84 80 120 M 80 120 C 58.67 122.44 36.39 117.27 0 120 M 80 120 C 54.12 119.48 30.84 119.24 0 120 M 0 120 C -3.82 104.69 2.13 85.77 0 80 M 0 120 C 0.19 109.82 -0.83 97.12 0 80" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -26,7 +20,9 @@
                 </text>
             </switch>
         </g>
-        <rect x="140" y="80" width="80" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="140" y="80" width="80" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 138.24 81.54 L 218.56 76.86 L 219.18 122.53 L 141.06 121.49" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 140 80 C 156.62 82.69 171.62 83.37 220 80 M 140 80 C 162.45 80.28 189.12 80.06 220 80 M 220 80 C 219.45 91.57 216.6 100.11 220 120 M 220 80 C 218.89 94.93 218.03 109.96 220 120 M 220 120 C 200.53 116.99 177.29 122.82 140 120 M 220 120 C 193.33 120.08 164.82 117.61 140 120 M 140 120 C 141.74 107.02 140.75 94.08 140 80 M 140 120 C 142.33 111.6 141.64 100.52 140 80" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -43,7 +39,9 @@
                 </text>
             </switch>
         </g>
-        <rect x="280" y="80" width="80" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="280" y="80" width="80" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 281.29 78 L 358.78 80.28 L 362.83 119.59 L 280.25 117.46" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 280 80 C 294.34 78.69 314.98 79.77 360 80 M 280 80 C 310.6 82.94 338.18 81.16 360 80 M 360 80 C 358.12 89.33 360.99 104.6 360 120 M 360 80 C 361.49 93.48 358.42 107.08 360 120 M 360 120 C 342.39 119.54 326.18 120.36 280 120 M 360 120 C 328.54 120.68 294.81 119.99 280 120 M 280 120 C 279.31 109.35 279.38 94.4 280 80 M 280 120 C 278.87 105.37 278.52 87.91 280 80" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -60,7 +58,9 @@
                 </text>
             </switch>
         </g>
-        <rect x="0" y="0" width="80" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="0" y="0" width="80" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M -0.61 -1.08 L 79.23 -0.87 L 82.12 41.7 L -1.39 37.4" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 0 0 C 17.77 5.1 33.7 -1.02 80 0 M 0 0 C 26.91 -2.14 52.31 0.96 80 0 M 80 0 C 77.05 12.83 83.36 33.58 80 40 M 80 0 C 78.68 10.58 79.2 25.32 80 40 M 80 40 C 50.11 36.64 23.97 43.46 0 40 M 80 40 C 58.96 41.88 34.78 40.74 0 40 M 0 40 C 0.83 26.01 3.02 15.04 0 0 M 0 40 C 1.56 28.93 1.86 18.71 0 0" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -77,7 +77,9 @@
                 </text>
             </switch>
         </g>
-        <rect x="140" y="0" width="80" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="140" y="0" width="80" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 142.45 3.37 L 219.46 2.56 L 217.77 38.75 L 137.8 41.37" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 140 0 C 155.48 1.1 169.06 -4.62 220 0 M 140 0 C 171.06 -2.68 201.37 -1.15 220 0 M 220 0 C 223.72 10.58 219.75 14.07 220 40 M 220 0 C 221.28 9.13 219.59 22.44 220 40 M 220 40 C 199.97 39.18 172.86 41 140 40 M 220 40 C 194.17 38.48 168.77 39.12 140 40 M 140 40 C 138.39 28.34 141.65 15.36 140 0 M 140 40 C 138.1 30.7 138.74 22.1 140 0" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -94,7 +96,9 @@
                 </text>
             </switch>
         </g>
-        <rect x="280" y="0" width="80" height="40" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="280" y="0" width="80" height="40" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 277.5 -0.17 L 359.69 -2.02 L 361.42 43.81 L 276.98 37.34" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 280 0 C 293.2 0.31 312.43 2.98 360 0 M 280 0 C 299.21 -0.01 322.43 -0.05 360 0 M 360 0 C 362.38 8.33 356.14 18.56 360 40 M 360 0 C 359.87 11.67 359.98 19.56 360 40 M 360 40 C 341.83 41.73 321.76 38.55 280 40 M 360 40 C 329.39 39.08 302.75 41.49 280 40 M 280 40 C 282.36 30.67 278.67 23.68 280 0 M 280 40 C 280.24 24.48 281.21 9.5 280 0" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
@@ -111,15 +115,30 @@
                 </text>
             </switch>
         </g>
-        <path d="M 40 73.63 L 40 46.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
-        <path d="M 40 78.88 L 36.5 71.88 L 40 73.63 L 43.5 71.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 40 41.12 L 43.5 48.12 L 40 46.37 L 36.5 48.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 179.66 73.63 L 179.66 46.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
-        <path d="M 179.66 78.88 L 176.16 71.88 L 179.66 73.63 L 183.16 71.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 179.66 41.12 L 183.16 48.12 L 179.66 46.37 L 176.16 48.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 319.66 73.63 L 319.66 46.37" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
-        <path d="M 319.66 78.88 L 316.16 71.88 L 319.66 73.63 L 323.16 71.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 319.66 41.12 L 323.16 48.12 L 319.66 46.37 L 316.16 48.12 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 40 73.63 L 40 46.37" fill="none" stroke="none" pointer-events="stroke"/>
+        <path d="M 40 78.88 L 36.5 71.88 L 40 73.63 L 43.5 71.88 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 40 41.12 L 43.5 48.12 L 40 46.37 L 36.5 48.12 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 40 73.63 M 40 73.63 C 41.82 65.27 42.82 59.1 40 46.37 M 40 73.63 C 41.79 69.72 39.75 63.46 40 46.37" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 36.66 71.69 C 36.66 71.69 36.66 71.69 36.66 71.69 M 36.66 71.69 C 36.66 71.69 36.66 71.69 36.66 71.69 M 38.37 75.83 C 38.82 74.98 39.17 74.73 40.34 73.56 M 38.37 75.83 C 38.9 74.95 39.54 74.43 40.34 73.56" fill="none" stroke="rgb(0, 0, 0)" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 40 78.88 M 40 78.88 C 39.94 76.89 37.92 75.8 36.5 71.88 M 40 78.88 C 39.97 77.87 38.81 75.89 36.5 71.88 M 36.5 71.88 C 36.71 72.27 38.09 72.22 40 73.63 M 36.5 71.88 C 37.33 72.36 38.56 72.7 40 73.63 M 40 73.63 C 40.65 73.83 41.81 71.98 43.5 71.88 M 40 73.63 C 40.73 72.97 42.13 72.7 43.5 71.88 M 43.5 71.88 C 44.08 74.18 40.52 75.74 40 78.88 M 43.5 71.88 C 42.83 73.75 42.04 74.64 40 78.88" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 39.83 41.32 C 39.83 41.32 39.83 41.32 39.83 41.32 M 39.83 41.32 C 39.83 41.32 39.83 41.32 39.83 41.32 M 40.22 46.96 C 40.67 46.11 41.02 45.87 42.19 44.7 M 40.22 46.96 C 40.75 46.08 41.39 45.56 42.19 44.7" fill="none" stroke="rgb(0, 0, 0)" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 40 41.12 M 40 41.12 C 42.1 43.53 42.22 46.7 43.5 48.12 M 40 41.12 C 41.37 43.11 41.73 44.19 43.5 48.12 M 43.5 48.12 C 41.94 47.49 41.51 46.54 40 46.37 M 43.5 48.12 C 42.67 47.86 42.18 47.35 40 46.37 M 40 46.37 C 38.8 47.51 38.09 46.6 36.5 48.12 M 40 46.37 C 38.91 46.76 38.43 47.42 36.5 48.12 M 36.5 48.12 C 38.47 47.43 36.46 45.87 40 41.12 M 36.5 48.12 C 37.16 47.04 37.78 45.12 40 41.12" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 179.66 73.63 L 179.66 46.37" fill="none" stroke="none" pointer-events="stroke"/>
+        <path d="M 179.66 78.88 L 176.16 71.88 L 179.66 73.63 L 183.16 71.88 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 179.66 41.12 L 183.16 48.12 L 179.66 46.37 L 176.16 48.12 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 179.66 73.63 M 179.66 73.63 C 180.19 71.2 178.84 65.43 179.66 46.37 M 179.66 73.63 C 179.76 68.18 180.88 58.4 179.66 46.37" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 175.91 72.17 C 175.91 72.17 175.91 72.17 175.91 72.17 M 175.91 72.17 C 175.91 72.17 175.91 72.17 175.91 72.17 M 178.27 75.55 C 178.57 75.37 178.62 74.89 179.59 74.04 M 178.27 75.55 C 178.84 74.94 179.01 74.58 179.59 74.04" fill="none" stroke="rgb(0, 0, 0)" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 179.66 78.88 M 179.66 78.88 C 179.27 78.06 178.94 75.28 176.16 71.88 M 179.66 78.88 C 178.71 77.71 178.21 74.57 176.16 71.88 M 176.16 71.88 C 177.9 72.5 178.41 73.4 179.66 73.63 M 176.16 71.88 C 177.79 72.72 178.84 73.27 179.66 73.63 M 179.66 73.63 C 181.27 72.84 181.46 73.12 183.16 71.88 M 179.66 73.63 C 181.08 72.76 182.07 72.67 183.16 71.88 M 183.16 71.88 C 181.45 73.38 181.55 77.58 179.66 78.88 M 183.16 71.88 C 181.25 74.78 180.67 77.09 179.66 78.88" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 179.73 41.04 C 179.73 41.04 179.73 41.04 179.73 41.04 M 179.73 41.04 C 179.73 41.04 179.73 41.04 179.73 41.04 M 180.13 46.68 C 180.42 46.51 180.47 46.03 181.44 45.17 M 180.13 46.68 C 180.69 46.07 180.86 45.72 181.44 45.17" fill="none" stroke="rgb(0, 0, 0)" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 179.66 41.12 M 179.66 41.12 C 181.14 44.13 182.67 45.08 183.16 48.12 M 179.66 41.12 C 180.76 43.49 182.07 43.98 183.16 48.12 M 183.16 48.12 C 182.04 47.25 179.76 46.76 179.66 46.37 M 183.16 48.12 C 182.02 47.44 180.28 46.6 179.66 46.37 M 179.66 46.37 C 178.83 46.79 176.61 48.27 176.16 48.12 M 179.66 46.37 C 178.56 46.76 176.98 47.95 176.16 48.12 M 176.16 48.12 C 176.54 45.39 178.8 45.27 179.66 41.12 M 176.16 48.12 C 176.84 46.01 178.81 43.21 179.66 41.12" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 319.66 73.63 L 319.66 46.37" fill="none" stroke="none" pointer-events="stroke"/>
+        <path d="M 319.66 78.88 L 316.16 71.88 L 319.66 73.63 L 323.16 71.88 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 319.66 41.12 L 323.16 48.12 L 319.66 46.37 L 316.16 48.12 Z" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 319.66 73.63 M 319.66 73.63 C 317.81 69.12 322.11 63.75 319.66 46.37 M 319.66 73.63 C 318.08 62.65 318.35 53.34 319.66 46.37" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 316.01 72.05 C 316.01 72.05 316.01 72.05 316.01 72.05 M 316.01 72.05 C 316.01 72.05 316.01 72.05 316.01 72.05 M 318.37 75.43 C 318.6 74.8 319.27 74.8 319.69 73.92 M 318.37 75.43 C 318.74 75.2 319.06 74.44 319.69 73.92" fill="none" stroke="rgb(0, 0, 0)" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 319.66 78.88 M 319.66 78.88 C 318.94 76.1 317.16 74.76 316.16 71.88 M 319.66 78.88 C 318.08 77.54 318.23 74.81 316.16 71.88 M 316.16 71.88 C 317.09 72.37 319.17 73.88 319.66 73.63 M 316.16 71.88 C 317.12 72.59 318.85 72.99 319.66 73.63 M 319.66 73.63 C 319.91 73.77 321.54 73.39 323.16 71.88 M 319.66 73.63 C 320.29 72.76 321.73 72.42 323.16 71.88 M 323.16 71.88 C 322.3 75.7 319.8 76.29 319.66 78.88 M 323.16 71.88 C 322.28 74.55 321.05 76.87 319.66 78.88" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 319.83 40.92 C 319.83 40.92 319.83 40.92 319.83 40.92 M 319.83 40.92 C 319.83 40.92 319.83 40.92 319.83 40.92 M 320.23 46.57 C 320.45 45.94 321.12 45.94 321.54 45.06 M 320.23 46.57 C 320.6 46.33 320.91 45.57 321.54 45.06" fill="none" stroke="rgb(0, 0, 0)" stroke-width="0.5" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 319.66 41.12 M 319.66 41.12 C 320.51 41.61 320.32 43.45 323.16 48.12 M 319.66 41.12 C 320.21 43.87 322.47 45.35 323.16 48.12 M 323.16 48.12 C 321.7 47.35 321.4 47.68 319.66 46.37 M 323.16 48.12 C 321.62 47.5 320.9 46.68 319.66 46.37 M 319.66 46.37 C 318.41 47.3 318.5 47.68 316.16 48.12 M 319.66 46.37 C 318.47 46.55 318.05 47.14 316.16 48.12 M 316.16 48.12 C 318.09 46.48 318.36 41.54 319.66 41.12 M 316.16 48.12 C 317.72 46.24 318.79 43.97 319.66 41.12" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
     </g>
     <switch>
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
